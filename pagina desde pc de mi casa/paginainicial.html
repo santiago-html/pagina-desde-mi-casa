@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Libreria del Trap</title>
+    <link rel="stylesheet" href="microfono.png" type="imagen">
+    <link rel="stylesheet" href="stylepagina.css">
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #282c34;
+            color: white;
+            text-align: center;
+            margin-top: 5%;
+            font-size: 50px;
+        }
+        .typewriter {
+            border-right: 2px solid white;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+            animation: typing 4s steps(35) forwards, blink 0.90s step-end infinite;
+        }
+        @keyframes typing {
+            from { width: 0; }
+            to {width: 100%;}
+        }
+        @keyframes blink {
+            from, to { border-color: transparent; }
+            50% { border-color: white; }
+        }
+    </style>
+    </head>
+ <body>
+ <div class="typewriter" id="typewriter"></div>
+<script>
+    const text = "Bienvenido a la libreria del Trap";
+    let index = 0;
+    function type() {
+        if (index < text.length) {
+            document.getElementById("typewriter").innerHTML += text.charAt(index);
+            index++;
+            setTimeout(type, 140); // Ajusta la velocidad aquí
+        }
+    }
+    type();
+ </script>
+ </body>
+</head>
+<body>
+    
+   
+<nav>
+ <p>En este sitio puedes ver informacion de tu artista preferido de TRAP, puedes ver su discografia tanto como su mejor tema del momento
+    o ver sus temas mas escuchados.
+ </p>
+</nav>
+<input type="search" name="" id="">
+    
+<div>
+    
+   <section>
+    <figure class="figure">
+        <span class="border border-white"></span>
+        <img src="ysy a.jpeg" class="figure-img img-fluid rounded" alt="...">
+        <figcaption class="figure-caption">YSY A</figcaption>
+        <span class="border border-white"></span>
+      </figure>
+      
+     
+     
+  <p>  "Antezana 24/7"</p>
+  <p>  "Hecho a mano"</p>
+  <p>  "Mordiendo el bozal"</p>
+    
+     
+    <color>
+        <p> ...</p>
+    </color>
+        
+        <a id="ysy a" href="indexysya.html"> Ver más </a>
+        
+</div>
+<div2>
+    
+    <section>
+     <figure class="figure">
+         <span class="border border-white"></span>
+         <img src="duki_416x234.webp" class="figure-img img-fluid rounded" alt="...">
+         <figcaption class="figure-caption">DUKI</figcaption>
+         <span class="border border-white"></span>
+       </figure>
+    
+      
+      
+   <p>  "Super sangre joven"</p>
+   <p>  "24"</p>
+   <p>  "Desde el Fin del Mundo"</p>
+     
+      
+     <color>
+         <p> ...</p>
+     </color>
+         
+         <a id="DUKI" href="indexduki.html"> Ver más </a>
+         
+ </div2>
+</body>
+</html>

@@ -1,0 +1,140 @@
+body{
+    background-image: url("trampa\ al\ tiempo.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div{
+    display: contents ;
+    text-align: center;
+}
+h3{
+font-size: 300%;
+}
+p{
+    height:50%;
+    width: 100%;
+    font-size: 200%;
+    color: white;
+}
+nav{
+   
+display: contents;
+align-items: center;
+text-align: center;
+img{
+    height: 10%;
+    width: 20%;
+}
+  
+}
+nav2{
+   
+    h2{
+        color:aqua;
+    }
+    display: contents;
+    align-items: center;
+    text-align: center;
+    img{
+        height: 10%;
+        width: 20%;
+    }
+        
+    
+    }
+    section{
+        img{
+            border: solid 5px white;
+        }
+    }
+    nav3{
+   
+        h2{
+            color:rgb(112, 16, 64);
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+          
+            
+    }
+    nav4{
+   
+        h2{
+            color:yellow;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+          
+            
+    }
+    nav5{
+   
+        h2{
+            color: white;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+
+        img{
+            height: 10%;
+            width: 20%;
+        }
+        
+        button{
+            
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+                align-items: center;
+        }
+          
+             
+    }
+
+    nav6{
+   
+        h2{
+            color:wheat;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+          
+            
+    }
+
+    nav7{
+   
+        h2{
+            color:yellow;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+          
+            
+    }

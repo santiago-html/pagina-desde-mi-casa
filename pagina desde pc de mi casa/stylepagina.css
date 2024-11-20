@@ -1,0 +1,68 @@
+nav{
+    color:white;
+     display: flex;
+     align-items: center;
+    justify-content: center;
+    margin: 160px;
+    background-color: black;
+ }
+ input{
+    margin: 15px;
+  height: 75px;
+  width: 15%;
+ }
+ div{
+    
+ section{
+    
+ color: black;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 160px;
+ background-color: red;
+ }
+ color{
+    
+    color:blue;
+    display: column;
+    text-align: center;
+    
+ }
+ a{
+    color: aliceblue;
+    border-radius: 10%;
+    
+ }
+ }
+ div2{
+    
+   section{
+      
+   color: black;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 160px;
+   
+   background-color: white;
+   }
+   
+   color{
+      display: flex;
+      color:black;
+   
+      display: column;
+   
+      text-align: center;
+      
+   }
+   
+   a2{
+      color: black;
+      border-radius: 10%;
+      
+   }
+   
+   
+   }

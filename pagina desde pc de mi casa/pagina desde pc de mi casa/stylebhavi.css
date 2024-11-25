@@ -1,0 +1,133 @@
+body{
+    background-image: url("https://elplanetaurbano.com/wp-content/uploads/2024/09/Bhavi_-El-Planeta-Urbano_-2024_00.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+   
+}
+div{
+    display: contents ;
+    text-align: center;
+h3{
+font-size: 300%;
+color: black;
+}
+img{
+    height: 10%;
+    width: 25%;
+}
+p{
+    height:50%;
+    width: 100%;
+    font-size: 200%;
+    color: white;
+}
+}
+nav{
+   
+    
+h2{
+    color: brown;
+}
+display: contents;
+align-items: center;
+text-align: center;
+img{
+    height: 10%;
+    width: 20%;
+}
+}
+nav2{
+   
+    h2{
+        color:brown;
+    }
+    display: contents;
+    align-items: center;
+    text-align: center;
+        
+    img{
+        height: 10%;
+        width: 20%;
+    }
+    
+    }
+    section{
+        img{
+            border: solid 5px white;
+        }
+    }
+    nav3{
+   
+        h2{
+            color:aqua;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+    nav4{
+   
+        h2{
+            color:yellow;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+    nav5{
+   
+        h2{
+            color:brown;
+        }
+        display: contents;
+        align-items: center;
+        text-align: center;
+        img{
+            height: 10%;
+            width: 20%;
+        }
+            
+    }
+
+    h1 {
+color: black;
+        text-align: center;
+    }
+
+    button{
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      } 
+
+      button2{
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      } 
+
+      a{
+
+        align-items: center;
+        text-align: center;
+      }
